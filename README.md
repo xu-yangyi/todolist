@@ -12,9 +12,9 @@
 ![](./todolist-react/public/2.gif)  
 ![](./todolist-react/public/3.gif)
 3. 分页功能  
-![](./todolist-react/public/4.gif1)
+![](./todolist-react/public/4.gif)
 4. 排序功能  
-![](./todolist-react/public/5.gif1)
+![](./todolist-react/public/5.gif)
 
 ## 其他说明  
 前端源码文件在todolist-react目录下,使用前需进入前端目录`npm install`安装下所有依赖包。  
